@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 - 🎓 Studying Computer Science at **Humboldt University of Berlin**
-- 💻 Passionate about **C++, Java, java script, Python, SQL, Git & OpenGL**
+- 💻 Passionate about **C++, Java, Python, SQL, Git, HTML & JavaScript**
 - 🔍 Exploring **Operating Systems, Algorithms & Computer Graphics**
 - 📚 Learning **System Programming & AI**
 - 🏗️ Interested in **Software Architecture & Cloud Computing**
@@ -28,7 +28,8 @@
   <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenGL-green?style=for-the-badge&logo=opengl&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
 </p>
 
 ---
