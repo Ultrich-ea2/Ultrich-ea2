@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hey there! 👋 I'm Ultrich</h1>
 
-<!--
-**Ultrich-ea2/Ultrich-ea2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="250">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Passionate Software Developer | Informatics Student @ HU Berlin</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🎓 Studying Computer Science at **Humboldt University of Berlin**
+- 💻 Passionate about **C++, Java, java script, Python, SQL, Git & OpenGL**
+- 🔍 Exploring **Operating Systems, Algorithms & Computer Graphics**
+- 📚 Learning **System Programming & AI**
+- 🏗️ Interested in **Software Architecture & Cloud Computing**
+- ⚡ Fun fact: **I love solving complex coding problems!**
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenGL-green?style=for-the-badge&logo=opengl&logoColor=white">
+</p>
+
+---
+
+## 📈 GitHub Stats & Contributions
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark" alt="Streak Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=false&margin-w=15" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ultrich-ea2&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
+</p>
