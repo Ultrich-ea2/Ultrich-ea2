@@ -36,8 +36,8 @@
 
 ## 📈 GitHub Stats & Contributions
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark" alt="Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ultrich-ea2&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ultrich-ea2&theme=dark" alt="Streak Stats">
 </p>
 
 <p align="center">
