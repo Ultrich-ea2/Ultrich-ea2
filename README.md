@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=false&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ultrich-ea2&theme=darkhub&no-frame=false&margin-w=24" />
 </p>
 
 ---
