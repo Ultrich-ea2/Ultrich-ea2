@@ -4,7 +4,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="250">
 </p>
 
-
 <p align="center">
   <b>Passionate Software Developer | Informatics Student @ HU Berlin</b>
 </p>
@@ -35,6 +34,13 @@
 
 ---
 
+## 📊 Languages Used in My Repositories
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ultrich-ea2&layout=compact&theme=dark" alt="Most Used Languages">
+</p>
+
+---
+
 ## 📈 GitHub Stats & Contributions
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ultrich-ea2&show_icons=true&theme=dark" alt="GitHub Stats">
@@ -50,3 +56,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ultrich-ea2&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
 </p>
+
