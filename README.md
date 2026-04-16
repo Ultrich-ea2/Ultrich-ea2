@@ -1,59 +1,57 @@
-<h1 align="center">Hey there! 👋 I'm Ultrich</h1>
+<h1 align="center">Ultrich Edima Edima</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="250">
+  <a href="https://ultrich.dev">ultrich.dev</a> · <a href="https://www.linkedin.com/in/ultrich">LinkedIn</a> · <a href="mailto:ultrichea2@gmail.com">Email</a>
 </p>
 
 <p align="center">
-  <b>Passionate Software Developer | Informatics Student @ HU Berlin</b>
-</p>
-
----
-
-## 🚀 About Me
-- 🎓 Studying Computer Science at **Humboldt University of Berlin**
-- 💻 Passionate about **C++, Java, Python, SQL, Git, HTML & JavaScript**
-- 🔍 Exploring **Operating Systems, Algorithms & Computer Graphics**
-- 📚 Learning **System Programming & AI**
-- 🏗️ Interested in **Software Architecture & Cloud Computing**
-- ⚡ Fun fact: **I love solving complex coding problems!**
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=2000&color=2D5A3D&center=true&vCenter=true&width=500&lines=M.Sc.+Computer+Science+%C2%B7+HU+Berlin;EdTech+%C2%B7+Plugin+Systems+%C2%B7+AI+Feedback;Python+%C2%B7+Scala+%C2%B7+JavaScript" alt="Typing SVG" />
 </p>
 
 ---
 
-## 📊 Languages Used in My Repositories
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ultrich-ea2&layout=compact&theme=dark" alt="Most Used Languages">
-</p>
+### About
+
+Master's student in Computer Science at Humboldt-Universitat zu Berlin.
+I work on plugin systems, AI-driven feedback tools, and full-stack prototypes.
+Trilingual: German, French, English.
 
 ---
 
-## 📈 GitHub Stats & Contributions
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ultrich-ea2&show_icons=true&theme=dark" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ultrich-ea2&theme=dark" alt="Streak Stats">
-</p>
+### Featured Project
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ultrich-ea2&theme=darkhub&no-frame=false&margin-w=24" />
-</p>
+**[PyTutorAI](https://github.com/Ultrich-ea2/pytutorai)** — Auto-grading plugin for digital workbooks.
+Analyzes Python code via AST, Pyodide, pattern matching, and an LLM.
+Runs entirely in the browser. Built with Scala.js.
+
+[Try the live demo](https://ultrich-ea2.github.io/PyTutorAI/) · [Read the thesis](https://ultrich.dev/thesis/)
 
 ---
 
+### Stack
+
+```
+Languages    Python · Scala · JavaScript · C++ · HTML/CSS
+Tools        Git · GitHub Actions · Cloudflare Workers · sbt
+Frameworks   Scala.js · Next.js · Tailwind CSS
+Platforms    Google Cloud · Vertex AI · Pyodide
+```
+
+---
+
+### Languages
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ultrich-ea2&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ultrich-ea2&layout=compact&theme=default&hide_border=true&bg_color=faf8f3&title_color=2d5a3d&text_color=3d3930" alt="Languages" />
+</p>
+
+### Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ultrich-ea2&show_icons=true&hide_border=true&bg_color=faf8f3&title_color=2d5a3d&icon_color=3d7a53&text_color=3d3930&hide_title=true&hide_rank=true" alt="Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ultrich-ea2&hide_border=true&background=faf8f3&ring=2d5a3d&fire=3d7a53&currStreakLabel=2d5a3d&sideLabels=3d3930&dates=6b6459" alt="Streak" />
 </p>
 
