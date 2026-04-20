@@ -8,6 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=2000&color=58a6ff&center=true&vCenter=true&width=500&lines=M.Sc.+Computer+Science+%C2%B7+HU+Berlin;EdTech+%C2%B7+Plugin+Systems+%C2%B7+AI+Feedback;Python+%C2%B7+Scala+%C2%B7+JavaScript" alt="Typing SVG" />
 </p>
 
+<!--
 ---
 
 ### About
@@ -25,6 +26,7 @@ Analyzes Python code via AST, Pyodide, pattern matching, and an LLM.
 Runs entirely in the browser. Built with Scala.js.
 
 [Try the live demo](https://ultrich-ea2.github.io/PyTutorAI/) · [Read the thesis](https://ultrich.dev/thesis/)
+-->
 
 ---
 
