@@ -1,11 +1,11 @@
-<h1 align="center">Ultrich Edima Edima</h1>
+<h1 align="center">Ultrich</h1>
 
 <p align="center">
   <a href="https://ultrich.dev">ultrich.dev</a> · <a href="https://www.linkedin.com/in/ultrich">LinkedIn</a> · <a href="mailto:ultrichea2@gmail.com">Email</a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=2000&color=58a6ff&center=true&vCenter=true&width=500&lines=M.Sc.+Computer+Science+%C2%B7+HU+Berlin;EdTech+%C2%B7+Plugin+Systems+%C2%B7+AI+Feedback;Python+%C2%B7+Scala+%C2%B7+JavaScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=2000&color=58a6ff&center=true&vCenter=true&width=500&lines=M.Sc.+Computer+Science+%C2%B7+HU+Berlin;EdTech+%C2%B7+Plugin+Systems+%C2%B7+AI+Feedback;Python+%C2%B7+Scala+%C2%B7+JavaScript;AI+Automation" alt="Typing SVG" />
 </p>
 
 <!--
